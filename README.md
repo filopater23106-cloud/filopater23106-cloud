@@ -4,32 +4,24 @@
 
 ### 💻 Web Developer | C++ Programmer
 
-</div>
-
----
-
-## ⚔️ Levi Ackerman
-
-<div align="center">
-
-<video src="[https://user-images.githubusercontent.com/74038190/212257465-0c7e49e3-91c6-49b2-9a57-6c1e0b6c0d2a.mp4](https://motionbgs.com/media/6727/levi-ackerman-dark.960x540.mp4)" width="700" autoplay loop muted></video>
+<img src="[https://komarev.com/ghpvc/?username=filopater&label=Profile%20views&color=0e75b6&style=flat](https://kyojuuros.tumblr.com/post/677024796171698176/tanjir%C5%8D-and-yoriichis-resemblance-requested-by)" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💻 Web Developer  
-- ⚙️ C++ Programmer  
-- 📚 I learned some **Java**  
-- 🐍 Currently learning **Python**  
-- 🧠 Interested in **Problem Solving & Algorithms**  
+- 💻 Web Developer
+- ⚙️ C++ Programmer
+- 📚 I learned some **Java**
+- 🐍 Currently learning **Python**
+- 🧠 Interested in **Problem Solving & Algorithms**
 - 🎮 Currently building a **C++ Game using SFML**
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -42,7 +34,7 @@
 
 ---
 
-## 👨‍💻 My Skills in Code
+# 👨‍💻 My Skills in Code
 
 ```cpp
 class Filopater {

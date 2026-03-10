@@ -4,7 +4,7 @@
 
 ### 💻 Web Developer | C++ Programmer
 
-<img src="[[https://komarev.com/ghpvc/?username=filopater&label=Profile%20views&color=0e75b6&style=flat](https://kyojuuros.tumblr.com/post/677024796171698176/tanjir%C5%8D-and-yoriichis-resemblance-requested-by)](https://64.media.tumblr.com/e2bffd7a21b1eca2522b2a2cf4abdc1e/b7a13f8656a9e804-7f/s540x810/f0f661f354b7594f515a59984afdb0b308c86ee3.gif)" />
+<img src="https://64.media.tumblr.com/e2bffd7a21b1eca2522b2a2cf4abdc1e/b7a13f8656a9e804-7f/s540x810/f0f661f354b7594f515a59984afdb0b308c86ee3.gifv" />
 
 </div>
 

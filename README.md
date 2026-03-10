@@ -2,9 +2,9 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
  <video width="100%" loop muted autoplay="autoplay">
-                <source src="[https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" type="video/mp4" />
-            </video>
-<img  href="https://github.com/sp-xd](https://motionbgs.com/media/6727/levi-ackerman-dark.960x540.mp4)" alt="Workspace"  width="40%"/><br> 
+                <source src="[https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" type="video/mp4" width="40%"  />
+ </video>
+ <br> 
 
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>

@@ -1,10 +1,7 @@
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
- <video width="100%" loop muted autoplay="autoplay">
-                <source src="[https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" type="video/mp4" width="40%"  />
- </video>
- <br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>

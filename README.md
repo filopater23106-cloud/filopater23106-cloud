@@ -4,7 +4,7 @@
 
 ### 💻 Web Developer | C++ Programmer
 
-<img src="https://kyojuuros.tumblr.com/post/677024796171698176/tanjir%C5%8D-and-yoriichis-resemblance-requested-by" />
+<img src="https://www.pinterest.com/pin/yoriichi-demon-slayer-gif-yoriichi-demon-slayer-discover-share-gifs--722757440209928826/" />
 
 </div>
 
